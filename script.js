@@ -1,5 +1,5 @@
-if (age>18) {
-    you can vote
+if (age > 18) {
+    console.log("You can vote.");
 } else {
-    you cannot vote
+    console.log("You cannot vote.");
 }
